@@ -21,7 +21,8 @@ The BIO data for this project is a “Yes” and “No” response of online use
  The dataset is available  [Data](https://drive.google.com/file/d/18lFeavnfpzVCxdtBnU7LFM_ytd2podye/view?usp=sharing).
 
 ## Repository overview
- Structure
+ Structure of the repository:
+ 
         ├── models  (contains trained model)
         ├── assets  (contains assets)
         ├── data    (contains data of smart ad)
